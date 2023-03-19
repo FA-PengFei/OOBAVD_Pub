@@ -1,6 +1,6 @@
 # Out-Of-Band Anti-Virus Dock (OOBAVD)
 
-*OOBAVD is created by [@yupengfei](https://github.com/FA-PengFei), [@zhangbosen](https://github.com/duemaster), [@tanjingzhi](https://github.com/jeijii), [@howardyang](https://github.com/reedless) and [@winstonho]()*
+*OOBAVD is created by [@yupengfei](https://github.com/FA-PengFei), [@zhangbosen](https://github.com/duemaster), [@tanjingzhi](https://github.com/jeijii), [@howardyang](https://github.com/reedless) and [@winstonho](https://github.com/violenttestpen)*
 
 *OOBAVD is an experimental proof of concept and not ready for production use in its current form.*
 
@@ -10,7 +10,7 @@
 
    ​	[How does OOVBAVD work?](#how-does-oobavd-works)
 
-   ​	[OOBAVD's key features](#key-features)
+   ​	[OOBAVD's key benefits](#key-benefits)
 
 2. [The Components | The magic behind OOBAVD](#the-components-of-oobavd)
 
