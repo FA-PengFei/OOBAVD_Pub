@@ -8,7 +8,7 @@
 
 1. [The Motivation](#the-motivation)
 
-   ​	[How does OOVBAVD work?](#how-does-oobavd-works)
+   ​	[How does OOVBAVD work?](#how-does-oobavd-work)
 
    ​	[OOBAVD's key benefits](#key-benefits)
 
@@ -52,7 +52,7 @@ OOBAVD is designed to have minimum software pre-installed unlike air gapped comp
 
 ### How does OOBAVD work?
 
-OOBAVD runs out-of-the-box with two key components.
+OOBAVD runs out-of-the-box with two key components; the AI based detector and the custom USB proxy.
 The protected resource can be customised by making a deployment change within the setup.
 
 <p align="center">
