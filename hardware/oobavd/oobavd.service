@@ -1,0 +1,13 @@
+[Unit]
+Description=Out-of-band Anti-virus Dock
+After=local-fs.target
+DefaultDependencies=no
+Before=sysinit.target
+[Service]
+RemainAfterExit=yes
+ExecStart=/bin/bash /home/pi/oobavd/boot_script.sh
+StandardOutput=journal+console
+StandardError=journal+console
+[Install]
+WantedBy=multi-user.target
+

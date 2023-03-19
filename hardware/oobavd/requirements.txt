@@ -1,0 +1,8 @@
+torch
+torchvision
+tqdm
+pillow
+pyusb
+python-magic
+numpy
+fastai
